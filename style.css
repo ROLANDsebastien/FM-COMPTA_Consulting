@@ -1283,9 +1283,73 @@ url("img/book.webp") 2x);
 	}
 	.h3-10-style{
 		font-size:25px;
+		margin-bottom:0px;
 	}
 	.h3-17-style{
 		font-size:25px;
+		margin-bottom:0px;
+	}
+	.card-header-style{
+		height:230px;
+	}
+	.card-header-tarifs-style{
+		height:230px;
+	}
+	.card-body-style{
+		height:267px;
+	}
+	.card-body-11-style{
+		height:336px;
+	}
+	.card-body-tarifs-style{
+		height:310px;
+	}
+	.container-div-style{
+		height:320px;
+	}
+	.card-body-4-style{
+		height:240px;
+	}
+	.card-body-3-style{
+		height:270px;
+	}
+	.card-body-5-style{
+		height:190px;
+	}
+	.card-body-avantages-style{
+		height:230px;
+	}
+	.img-popsy-lo-style{
+		width:74px;
+		margin-top:10px;
+	}
+	.img-bloc-2-style{
+		margin-top:21px;
+	}
+	.bloc-margin-bottom{
+		padding-bottom:0px;
+		margin-bottom:48px;
+	}
+	.row-margin-bottom{
+		margin-bottom:0px;
+	}
+	.h2-avantages-style{
+		font-size:50px;
+	}
+	.h2-l-équipe-style{
+		font-size:50px;
+	}
+	.h2-tarifs-style{
+		font-size:50px;
+	}
+	.h2-contact-style{
+		font-size:50px;
+	}
+	.card-body-margin-bottom{
+		height:440px;
+	}
+	.img-team-style{
+		margin-top:48px;
 	}
 	
 }
