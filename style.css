@@ -981,6 +981,8 @@ h1,h2,h3,h4,h5,h6{
 	
 	--swatch-var-Blue-FM-copy-3:rgba(55,81,126,0.70);
 	
+	--swatch-var-Background-Copy:rgba(240,240,245,0.90);
+	
 }
 
 
@@ -994,6 +996,9 @@ h1,h2,h3,h4,h5,h6{
 }
 .bgc-3849{
 	background-color:var(--swatch-var-White);
+}
+.bgc-2401{
+	background-color:var(--swatch-var-Background-Copy);
 }
 .bgc-6397{
 	background-color:var(--swatch-var-Blue-FM-copy-1);
@@ -1060,12 +1065,15 @@ h1,h2,h3,h4,h5,h6{
 .team-card{
 	min-height:350px;
 }
-.bg-book{
-	background-image:url("img/book.jpg");
-	background-image: -webkit-image-set(url("img/book.webp") 1x,
-url("img/book.webp") 2x);background-image: image-set(url("img/book.jpg") 1x,
-url("img/book.jpg") 2x,url("img/book.webp") 1x,
-url("img/book.webp") 2x);
+.bg-Background-20FM-20COMPTA{
+	background-image:url("img/Background%20FM%20COMPTA.webp");
+}
+.bg-Background-20FM-20COMPTA-20reverse{
+	background-image:url("img/Background%20FM%20COMPTA%20reverse.jpg");
+	background-image: -webkit-image-set(url("img/Background%20FM%20COMPTA%20reverse.webp") 1x,
+url("img/Background%20FM%20COMPTA%20reverse.webp") 2x);background-image: image-set(url("img/Background%20FM%20COMPTA%20reverse.jpg") 1x,
+url("img/Background%20FM%20COMPTA%20reverse.jpg") 2x,url("img/Background%20FM%20COMPTA%20reverse.webp") 1x,
+url("img/Background%20FM%20COMPTA%20reverse.webp") 2x);
 }
 
 
