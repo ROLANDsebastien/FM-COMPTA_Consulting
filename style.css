@@ -771,13 +771,15 @@ h1,h2,h3,h4,h5,h6{
 .img-style{
 	width:116px;
 	background-blend-mode:normal;
+	margin-top:35px;
 }
 .img-popsy-lo-style{
 	width:160px;
+	margin-top:35px;
 }
 .img-bloc-2-style{
 	width:180px;
-	margin-top:27px;
+	margin-top:53px;
 }
 .btn-margin-top{
 	margin-top:40px;
@@ -806,7 +808,8 @@ h1,h2,h3,h4,h5,h6{
 .feat-card-icon{
 	width:50px;
 	border-radius:10px 10px 10px 10px;
-	background-color:var(--swatch-var-Blue-FM);
+	background-color:var(--swatch-var-Background-Copy);
+	box-shadow:0.00px -2.00px 10px rgba(55,81,126,0.90);
 }
 .feat-card-icon-pos{
 	position:absolute;
@@ -949,6 +952,9 @@ h1,h2,h3,h4,h5,h6{
 }
 .p-contact-style{
 	font-size:20px;
+}
+.bloc-margin-bottom{
+	margin-bottom:48px;
 }
 
 /* = Colour
@@ -1334,10 +1340,6 @@ url("img/Background%20FM%20COMPTA%20reverse.webp") 2x);
 	.img-bloc-2-style{
 		margin-top:21px;
 	}
-	.bloc-margin-bottom{
-		padding-bottom:0px;
-		margin-bottom:48px;
-	}
 	.row-margin-bottom{
 		margin-bottom:0px;
 	}
@@ -1358,6 +1360,10 @@ url("img/Background%20FM%20COMPTA%20reverse.webp") 2x);
 	}
 	.img-team-style{
 		margin-top:48px;
+	}
+	.feat-card-icon{
+		background-color:var(--swatch-var-Background-Copy);
+		box-shadow:0.00px -2.00px 10px rgba(55,81,126,0.90);
 	}
 	
 }
