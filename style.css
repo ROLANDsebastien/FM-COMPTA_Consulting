@@ -1365,6 +1365,14 @@ url("img/Background%20FM%20COMPTA%20reverse.webp") 2x);
 		background-color:var(--swatch-var-Background-Copy);
 		box-shadow:0.00px -2.00px 10px rgba(55,81,126,0.90);
 	}
+	.bloc-margin-bottom{
+		margin-bottom:0px;
+		border-radius:0px 0px 0px 0px;
+		border-width:0px 0px 0px 0px;
+	}
+	.img-style{
+		margin-top:0px;
+	}
 	
 }
 
